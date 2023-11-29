@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyPointOfSale</string>
+    <string name="sell">Vender</string>
+    <string name="quantity">De:</string>
+    <string name="quantity_req">Disponibles <font color='#FF0000'>*</font></string>
+    <string name="item_name_req">Nombre del Producto  <font color='#FF0000'>*</font></string>
+    <string name="item_price_req">Precio del Producto <font color='#FF0000'>*</font></string>
+    <string name="save_action">Guardar</string>
+    <string name="item_detail_fragment_title">Detalles</string>
+    <string name="add_fragment_title">Agregar Producto</string>
+    <string name="edit_fragment_title">Editar Producto</string>
+    <string name="price">Precio</string>
+    <string name="quantity_in_stock">De\n Sin..</string>
+    <string name="item">Producto</string>
+    <string name="delete">Eliminar</string>
+    <string name="delete_question">Estas Seguro de Eliminar el Producto?</string>
+    <string name="no">No</string>
+    <string name="yes">Si</string>
+    <string name="currency_symbol">$</string>
+    <string name="edit_item">Editar Producto</string>
+    <string name="add_new_item">Agregar Nuevo Producto</string>
+</resources>
